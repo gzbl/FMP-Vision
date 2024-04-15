@@ -1,0 +1,26 @@
+[
+    {
+    "symbol": "011000.KS",
+    "name": "GeneOne Life Science, Inc.",
+    "price": 2280,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "KMET",
+    "name": "KraneShares Electrification Metals Strategy ETF",
+    "price": 13.9899,
+    "exchange": "New York Stock Exchange Arca",
+    "exchangeShortName": "AMEX",
+    "type": "etf"
+  },
+  {
+    "symbol": "DOPIX",
+    "name": "BNY Mellon Opportunistic Small Cap Fund Class I",
+    "price": 28.61,
+    "exchange": "NASDAQ",
+    "exchangeShortName": "NASDAQ",
+    "type": "trust"
+  }
+]
