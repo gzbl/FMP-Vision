@@ -1,7 +1,7 @@
 {
-    "rewrite_api": "coze",
-    "api_key": "9511324ec7808b3e7ac8223cdfcdb29e",
-    "access_token": "pat_D4Gl2Xl7FeflbGEefk2uD3dT7OPpCCHjd1uD9rkaLUuiTyeSDY3k9cyS9hUdjHqP",
-    "user_id":  "7346019374425178113",
-    "bot_id":  "7346021533074767890"
+    "rewrite_api": "coze or openai",
+    "api_key": "Your FMP API KEY",
+    "access_token": "YOUR COZE TOKEN",
+    "user_id":  "YOUR COZE USER ID",
+    "bot_id":  "YOUR COZE BOT ID"
 }
